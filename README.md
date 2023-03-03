@@ -6,6 +6,7 @@ Prior to 2021, I was a Postdoctoral Research Fellow in the Department of Physics
 
 Feel free to check out some of the projects I have been involved with, or visit my [personal website](http://pauljwright.co.uk):
 
+* http://sdoml.org/
 * http://spaceml.org/
 * https://cloud.withgoogle.com/intel/
 

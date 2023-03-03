@@ -8,3 +8,8 @@ Feel free to check out some of the projects I have been involved with, or visit 
 
 * http://spaceml.org/
 * https://cloud.withgoogle.com/intel/
+
+Works in progress:
+
+* http://spacepatch.org/
+* https://irradiance.space/

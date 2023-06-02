@@ -6,7 +6,7 @@ Prior to joining DIAS in 2023, I was a Senior ML Scientist in a small startup, a
 
 Feel free to check out some of the projects I have been involved with, or visit my [personal website](http://pauljwright.co.uk):
 
-* http://sdoml.org/
+* http://sdoml.org/ (https://registry.opendata.aws/sdoml-fdl/)
 * http://spaceml.org/
 * https://cloud.withgoogle.com/intel/
 

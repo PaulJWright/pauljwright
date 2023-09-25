@@ -12,5 +12,4 @@ Feel free to check out some of the projects I have been involved with, or visit 
 
 Works in progress:
 
-* http://spacepatch.org/
-* https://irradiance.space/
+* http://heliopulse.ai
